@@ -1,16 +1,3 @@
-/*
-
-Names           -  Raj Jhanwar
-Assignment Name -  Assignment 2: The Vending Machine
-assignment Due  -  09/26/2022
-
-Written/Online sources used -  none
-Help Obtained               -  none
-
-"I confirm that the above list of sources is complete AND that I have not talked to anyone else (e.g., CSC 207 students) about the solution to this problem.”
-
-*/
-
 import java.util.Scanner;
 
 public class VendingMachineSim
