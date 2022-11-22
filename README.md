@@ -8,4 +8,4 @@ Repository to store Java files and mini-projects.
 4. SpeedReader               -             -  Mini Project
 5. VendingMachineSimulator   -             -  Mini Project
 6. TicTacToe                 -    GAME     -  Mini Project
-7. Bank                      -             -  Mini Project
+7. BankSimulation            -             -  Mini Project
