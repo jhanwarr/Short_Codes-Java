@@ -1,19 +1,3 @@
-/*
- * 
- *  Author - Raj Vardhan Jhanwar
- *  Due Date - 10/31/2022
- *  Assignment 4
- * 
- * 
- *  Written/Online Sources used - None
- *  Help Obtained - None
- * 
- *  I confirm that the above list of sources is the complete AND that I have not talked 
- *  to anyone else (eg., any CSC 207 students) about the solutions to this problem.
- * 
- */
-
-
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
